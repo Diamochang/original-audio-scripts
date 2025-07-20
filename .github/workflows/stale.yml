@@ -1,0 +1,32 @@
+name: "Close stale issues and PRs"
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at 00:00 UTC
+
+permissions:
+  issues: write
+  pull-requests: write
+
+env:
+  STALE_LABEL: inactive
+  EXEMPT_LABELS: "pending,planning,in progress"
+  MESSAGE: >
+    此对话因近期没有活动已被自动标记为过时。
+    如果没有进一步的活动，它将会被关闭。
+    感谢你的贡献。
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v9
+        with:
+          # 60 days before marking issues/PRs stale
+          days-before-close: -1 # does not close automatically
+          stale-issue-label: ${{ env.STALE_LABEL }}
+          exempt-issue-labels: ${{ env.EXEMPT_LABELS }}
+          stale-issue-message: ${{ env.MESSAGE }}
+          stale-pr-label: ${{ env.STALE_LABEL }}
+          exempt-pr-labels: ${{ env.EXEMPT_LABELS }}
+          stale-pr-message: ${{ env.MESSAGE }}
