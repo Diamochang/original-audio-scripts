@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Mike 的台本库 # the main title
 
-tagline: 我的音声台本集结地 # it will display as the subtitle
+tagline: 我的声音台本集结地 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   使用 GitHub Pages 构建的台本库在线阅读站点。A GitHub Pages site from a repository which stores Mike Wang's own audio scripts. 
@@ -38,6 +38,7 @@ social:
   email: diamochang@yeah.net # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://imdchs.rf.gd
     - https://x.com/Diamochang # change to your Twitter homepage
     - https://github.com/Diamochang # change to your GitHub homepage
     # Uncomment below to add more social links

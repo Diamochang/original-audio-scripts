@@ -1,4 +1,12 @@
-# Mike 的台本库商业用途许可证获取指南
+---
+# the default layout is 'page'
+title: 商业授权
+icon: fas fa-money-bill
+order: 5
+---
+
+> 取自 GitHub 仓库的 [GUIDE_FOR_COMMERCIAL_USE.md](https://github.com/Diamochang/original-audio-scripts/blob/main/GUIDE_FOR_COMMERCIAL_USE.md)。
+{: .prompt-tip }
 
 如果你需要在舰限/会员限定直播、充电/会员限定视频等付费场合中表演我的台本，或者使用台本进行传统的商业演出，那么你就必须先向我购买商业用途许可证。以下是对商业许可的类型、价格和获取方式的详细介绍。
 
