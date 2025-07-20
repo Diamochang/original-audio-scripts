@@ -5,10 +5,10 @@ icon: fas fa-money-bill
 order: 5
 ---
 
-> 取自 GitHub 仓库的 [GUIDE_FOR_COMMERCIAL_USE.md](https://github.com/Diamochang/original-audio-scripts/blob/main/GUIDE_FOR_COMMERCIAL_USE.md)。
-{: .prompt-tip }
+> 取自 GitHub 仓库的 [GUIDE_FOR_COMMERCIAL_USE.md](https://github.com/Diamochang/original-audio-scripts/blob/main/GUIDE_FOR_COMMERCIAL_USE.md)，有改动。
+{: .prompt-info }
 
-如果你需要在舰限/会员限定直播、充电/会员限定视频等付费场合中表演我的台本，或者使用台本进行传统的商业演出，那么你就必须先向我购买商业用途许可证。以下是对商业许可的类型、价格和获取方式的详细介绍。
+如果你需要在舰长/会员限定直播、充电/会员限定视频等付费场合中表演我的台本，或者使用台本进行传统的商业演出，那么你就必须先向我购买商业用途许可证。以下是对商业许可的类型、价格和获取方式的详细介绍。
 
 ## 允许的许可类型
 
@@ -44,7 +44,7 @@ order: 5
 
 ### 如果你没有微信
 
-你可以用[电子邮件](javascript:location.href = 'mailto:' + ['diamochang','yeah.net'].join('@'))、[哔哩哔哩站内私信](https://space.bilibili.com/687416118/)、Matrix（[大陆无代理](https://matrix.to/#/@diamochang:chat.neboer.site)、[港澳台及世界其它国家和地区](https://matrix.to/#/@diamochang:matrix.org)）、Discord（用户名：diamochang）联系我。由于我只开通了微信支付，所以你需要把钱给你非常信任的好朋友或者同事并让 Ta 帮你用微信付钱。**支付时记得添加备注。**
+你可以用电子邮件（侧边栏下方的邮件图标）、[哔哩哔哩站内私信](https://space.bilibili.com/687416118/)、Matrix（[大陆无代理](https://matrix.to/#/@diamochang:chat.neboer.site)、[港澳台及世界其它国家和地区](https://matrix.to/#/@diamochang:matrix.org)）、Discord（用户名：diamochang）联系我。由于我只开通了微信支付，所以你需要把钱给你非常信任的好朋友或者同事并让 Ta 帮你用微信付钱。**支付时记得添加备注。**
 
 - 对于电子邮件，你需要在一封邮件中描述需要购买的台本的编号（记不得编号可以描述标题）、购买主体（个人/企业）和选择的许可类型。我收到信后如果可以，会在回信中提供要支付的金额并附上微信支付收款码。找人支付后，后续我会把正式的许可证发送到邮箱。如果需要使用 PGP，我的指纹是`618f8cbf95f6eaa3b7a9d6d610ecf5f8be40a8ce`。
 
