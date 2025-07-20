@@ -1,17 +1,14 @@
-## Type of change
-<!-- Please select the desired item checkbox and change it from `[ ]` to `[x]` and then delete the irrelevant options. -->
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Improvement (refactoring and improving code)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] Documentation update
+## 更改类型
+<!-- 请选中所需项目的复选框并将其从“[ ]”更改为“[x]”，然后删除不相关的选项。 -->
+- [ ] 修复 GitHub Pages 页面的问题
+- [ ] 添加台本的翻译
+- [ ] 改进台本
 
-## Description
+## 介绍
 <!--
-  Please include a summary of the change and which issue is fixed. 
-  Please also include relevant motivation and context. 
-  List any dependencies that are required for this change.
+请包含变更摘要和已修复的问题。
+另请包含相关动机和背景信息。
 -->
 
-## Additional context
-<!-- e.g. Fixes #(issue) -->
+## 附加信息
+<!-- 如：修复 #(issue) -->
