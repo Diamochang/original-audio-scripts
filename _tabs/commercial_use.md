@@ -46,7 +46,7 @@ order: 5
 
 你可以用电子邮件（侧边栏下方的邮件图标）、[哔哩哔哩站内私信](https://space.bilibili.com/687416118/)、Matrix（[大陆无代理](https://matrix.to/#/@diamochang:chat.neboer.site)、[港澳台及世界其它国家和地区](https://matrix.to/#/@diamochang:matrix.org)）、Discord（用户名：diamochang）联系我。由于我只开通了微信支付，所以你需要把钱给你非常信任的好朋友或者同事并让 Ta 帮你用微信付钱。**支付时记得添加备注。**
 
-![微信支付收款码](https://cdn.jsdelivr.net/gh/Diamochang/original-audio-scripts@main/assets/img/WeChatPay.png)
+![微信支付收款码](https://gcore.jsdelivr.net/gh/Diamochang/original-audio-scripts@main/assets/img/WeChatPay.png)
 
 - 对于电子邮件，你需要在一封邮件中描述需要购买的台本的编号（记不得编号可以描述标题）、购买主体（个人/企业）和选择的许可类型。我收到信后如果可以，会在回信中提供要支付的金额。找人支付后，后续我会把正式的许可证发送到邮箱。如果需要使用 PGP，我的指纹是`618f8cbf95f6eaa3b7a9d6d610ecf5f8be40a8ce`。
 
